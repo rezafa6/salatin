@@ -1,4 +1,11 @@
 /*general styles*/
+@font-face {
+    font-family: "Shabnam FD";
+    src: url(/assets/shabnam-font/Shabnam-Bold.woff2);
+    src: url(/assets/shabnam-font/Shabnam-Light.woff2);
+    src: url(/assets/shabnam-font/Farsi-Digits/Shabnam-Bold-FD.woff2);
+    src: url(/assets/shabnam-font/Farsi-Digits/Shabnam-Light-FD.woff2);
+}
 html , body {
     height: 100%;
 }
